@@ -235,11 +235,6 @@ bot.on('message', (message) => {
         
     }
 
-
-
-
-
-
     /*Responds in chat when someone says */
     if (message.content.toLowerCase() == 'hey steve') {
         message.channel.send('https://www.youtube.com/watch?v=6K72mwt1_5c');
