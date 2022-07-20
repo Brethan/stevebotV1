@@ -28,7 +28,7 @@ bot.on('message', (message) => {
         .setDescription('Adding that COOP1000 role is easy as pie\n\nCOOP1000\t\t*"s.role add coop1000"* or *"s.role add coop"*')
         .setImage('https://vignette.wikia.nocookie.net/nintendo/images/8/83/Super_Smash_Bros._Ultimate_-_Character_Art_-_Pikachu.png/revision/latest?cb=20190710193145&path-prefix=en');
         
-    //if (message.content == 'saggy nuts') {
+    //if (message.content == 'some key string') {
     //    message.channel.send(coopEmbed);
     //} 
 
